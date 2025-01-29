@@ -1,0 +1,6 @@
+@Cricketers_FinalProject_BackendAPI_HostAddress = http://localhost:5294
+
+GET {{Cricketers_FinalProject_BackendAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
